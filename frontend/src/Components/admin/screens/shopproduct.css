@@ -1,0 +1,13 @@
+.products__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 89.5%;
+  margin: 0px auto;
+  gap: 12px;
+
+}
+.add__products{
+  max-width: 1024px;
+  width: 100%;
+  margin: 40px auto
+}

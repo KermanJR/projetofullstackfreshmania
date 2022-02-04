@@ -1,0 +1,158 @@
+
+.add_product_container{
+    display: flex;
+    margin: 40px auto;
+width: 95%;
+}
+
+.row{
+    margin: 40px auto;
+    padding: 0px 20px;
+    justify-content: space-between;
+    display: flex;
+}
+.image_products{
+    width: 100px;
+    height: 100px;
+}
+
+.col-md-7{
+    margin-top: 44px;
+    height: 300px;
+    border: 3px solid #015452;
+    overflow-y: scroll;
+}
+.col-md-7 .table-striped{
+    overflow-y: scroll;
+}
+
+
+.col-md-4{
+    border: 1px solid black;
+}
+
+.col-md-7 tbody tr{
+    margin-top: 45px;
+}
+
+/*TABELA LATERAL DE PRODUTOS*/
+.add_product_item{
+    width: 70%;
+    background-color: #ccc;
+    height: 450px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+
+.add_product_item .table_products{
+    display: block;
+    height: 450px;
+    width: 100%;
+}
+
+.add_product_item .table_products thead{
+    position: absolute;
+    width: 59.05%;
+    background-color: rgb(126, 126, 126);
+
+}
+
+.add_product_item .table_products thead tr{
+    display: flex;
+    padding: 10px 10px;
+    justify-content: space-between;
+    position:fixed;
+    flex-direction: row;
+    box-shadow: 1px 1px 2px 1px rgb(136, 136, 136);
+    width: 100%;
+}
+
+.add_product_item .table_products thead tr th{
+    margin-left: 50px;
+
+
+}
+
+.add_product_item .table_products tbody tr{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid rgb(124, 124, 124);
+    padding-bottom: 70px;
+    margin-top: 30px;
+
+}
+
+.add_product_item .table_products tbody tr td{
+    margin-right: 40px;
+    margin-top: 25px;
+    padding: 20px;
+    width: 100%;
+}
+
+
+.add_product_item .table_products img{
+    width:80px;
+    height:80px;
+}
+
+
+/*BOTÕES EDIÇÃO E REMOÇÃO*/
+button{
+    border: none;
+    width: 100%;
+    height: 40px;
+    color: white;
+    margin-top: 14px;
+}
+.btn_edit{
+    background-color: #004747;
+    border: 4px solid #004040;
+}
+
+.btn_remove{
+    background-color: #ff4a53;
+}
+
+.btn-success{
+    border-radius: 0px;
+    background-color: #004040;
+    border: 4px solid #005E5B;
+}
+
+.btn-success:hover{
+    background-color: #004d4a;
+    border: 4px solid #004040;
+}
+
+.btn-danger{
+    background-color: #ff4a53;
+    border-radius: 0px;
+}
+
+.form__add{
+    border-radius: 0px;
+    height: 300px;
+}
+
+.form__add input{
+    border-radius: 0px;
+}
+
+
+
+.add_product_form{
+    width: 50%;
+} .add_product_form form{
+    width: 80%;
+    border: 1px solid black;
+}
+
+.add_product_form form input{
+    width: 80%;
+    height: 45px;
+}
+
