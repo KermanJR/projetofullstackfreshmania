@@ -11,10 +11,13 @@
   <p>No cmd, execute o seguinte comando: </br>mongod</p>
   <p>Por padrão, o servidor MongoDB se inciciará na porta 27017</p>
    <p>Ou caso, preferir, execute a GUI MongoDB Compass</p>
+
  <h3> - Instalar Python 3.8 ou superior</h3>
+    <h3> ---------------------------------------------------- </h3>
+     <h3> - O projeto:</h3>
  <h3>Faça o download do projeto zip ou clone o repositório</h3>
  <h3>Abra o arquivo main no Vscode ou IDE de sua preferência</h3>
-<h3>1° No Vscode ou terminal: </p>
+<h3>1° No Terminal Vscode ou des sua preferência: </p>
 <h3 style="background-color: #ccc, "> - cd frontend</h3>
 <h3> - npm install react-scripts --save<h3>
 <h3> - npm start</h3>
