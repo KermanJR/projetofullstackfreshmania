@@ -17,7 +17,7 @@
      <h3> - O projeto:</h3>
  <h3>Faça o download do projeto zip ou clone o repositório</h3>
  <h3>Abra o arquivo main no Vscode ou IDE de sua preferência</h3>
-<h3>1° No Terminal Vscode ou des sua preferência: </p>
+<h3>1° No Terminal Vscode ou de sua preferência: </p>
 <h3 style="background-color: #ccc, "> - cd frontend</h3>
 <h3> - npm install react-scripts --save<h3>
 <h3> - npm start</h3>
@@ -28,3 +28,5 @@
 <h3> - cd src</h3>
 <h3> - py app.py</h3>
 <p>Abra o webserver em: <a>http://localhost:5000/products</a></p>
+ Caso necessário, crie uma virtualenv em 'projetofullstackfreshmania\backend' com o seguinte comando: </br> py -m virtualenv venv </br>
+e execute novamente o processo Python acima!
