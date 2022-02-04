@@ -6,7 +6,11 @@
  <h3> - Instalar MongoDB CLI ou GUI</h3> 
   <p>Instale o MongoDB e crie a seguinte pasta: </br>C:\data\db </p>
 
+ <h2>Para executar MongoDB no terminal:</h2>
   <p>Adicione o seguinte caminho nas variáveis de ambiente windows (edit: path):</br>  C:\Program Files\MongoDB\Server\5.0\bin</p>
+  <p>No cmd, execute o seguinte comando: </br>mongod</p>
+  <p>Por padrão, o servidor MongoDB se inciciará na porta 27017</p>
+   <p>Ou caso, preferir, execute a GUI MongoDB Compass</p>
  <h3> - Instalar Python 3.8 ou superior</h3>
  <h3>Faça o download do projeto zip ou clone o repositório</h3>
  <h3>Abra o arquivo main no Vscode ou IDE de sua preferência</h3>
