@@ -1,6 +1,8 @@
 
 
 <h1>CRUD - Fresh Mania<h1>
+ <p>Backend: Python, API Flask e MongoDB</p>
+  <p>Frontend: ReactJS, Typescript</p>
  
 <h4>Requisitos para executar a aplicação: </h4>
  <h3> - Instalar MongoDB CLI ou GUI</h3> 
